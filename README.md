@@ -1,6 +1,6 @@
 ### Hi, I'm Ilya 👋
 
-Frontend developer. I build fast, clean web interfaces — mostly with **Vue** and **Nuxt**.
+Frontend developer. Mostly working with **Vue** and **Nuxt**.
 
 **Main stack**
 
@@ -17,8 +17,3 @@ Frontend developer. I build fast, clean web interfaces — mostly with **Vue** a
 
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-**Recent sites**
-
-- [av-english.vercel.app](https://av-english.vercel.app)- [zavet39.vercel.app](https://zavet39.vercel.app)
-- [royal-six-tau.vercel.app](https://royal-six-tau.vercel.app)
